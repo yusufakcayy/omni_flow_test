@@ -13,3 +13,7 @@
 9. Metni Özetle(Open Router)
 10. Data Helper
 11. Google Calendar
+12. Human input 
+13. Delay 
+14. Schedule 
+15. Yapay Zekaya Sor(Ai)
